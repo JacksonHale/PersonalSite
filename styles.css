@@ -1,0 +1,22 @@
+/* Reset default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Set dark mode */
+body {
+    background-color: #1a1a1a;
+    color: #ffffff;
+}
+
+/* Center the content */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+}
+
+/* Add your own styles here */
