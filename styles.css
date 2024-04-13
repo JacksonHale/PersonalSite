@@ -18,5 +18,13 @@ body {
     align-items: center;
     height: 20vh;
 }
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 10%;
+    width: 100%;
+    background-color: #333333;
+}
 
 /* Add your own styles here */
